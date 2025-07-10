@@ -45,6 +45,12 @@ margin-top: 120px;
   font-size: 45px;
   font-weight: bold;
 }
+button:hover{
+  background-color: aqua;
+}
+.btn-primary:hover{
+  background-color: aqua;
+}
 
 /* Banner styles */
 .banner{
@@ -169,3 +175,4 @@ footer li a{
   text-decoration: none;
   color: black;
 }
+/* THe end */
