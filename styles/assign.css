@@ -159,8 +159,11 @@ form input, textarea{
 
 }
 .submit-btn{
-  padding: 20px 154px;
+  padding: 20px 120px;
   margin-top: 15px;
+}
+form button{
+  width: 100%;
 }
 .form-content{
   border: none;
@@ -168,7 +171,7 @@ form input, textarea{
   padding: 50px;
   border-radius: 50px;
 }
-/* footer styles  */
+/* footer styls  */
 footer{
 max-width: 1440px;
 margin: 0 auto;
